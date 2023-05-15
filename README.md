@@ -2,8 +2,8 @@
 
 <h2>Components used from the recharts library:</h2>
 
-BarChart: A component for rendering a bar chart.
-Bar: Represents a single bar in the chart.
+BarChart: A component for rendering a bar chart.             
+<li>Bar: Represents a single bar in the chart. </li>
 XAxis: Renders the x-axis of the chart.
 YAxis: Renders the y-axis of the chart.
 CartesianGrid: Renders horizontal and vertical grid lines in the chart.
