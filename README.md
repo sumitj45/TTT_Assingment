@@ -2,13 +2,13 @@
 
 <h2>Components used from the recharts library:</h2>
 
-BarChart: A component for rendering a bar chart.             
+<li>BarChart: A component for rendering a bar chart.  </li>       
 <li>Bar: Represents a single bar in the chart. </li>
-XAxis: Renders the x-axis of the chart.
-YAxis: Renders the y-axis of the chart.
-CartesianGrid: Renders horizontal and vertical grid lines in the chart.
-Tooltip: Provides a tooltip for displaying data values on hover.
-Legend: Displays a legend for the chart.
+ <li> XAxis: Renders the x-axis of the chart. </li>
+ <li> YAxis: Renders the y-axis of the chart. </li>
+ <li> CartesianGrid: Renders horizontal and vertical grid lines in the chart. </li>
+ <li> Tooltip: Provides a tooltip for displaying data values on hover. </li>
+ <li> Legend: Displays a legend for the chart. </li>
 
 <h2>Dependecies used :</h2>
 recharts
